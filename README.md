@@ -1,6 +1,6 @@
 # Linear Algebra for Machine Learning
 
-## Course 1 of the Mathematics for Machine Learning Specialization by Coursera
+## [Course 1](https://www.coursera.org/learn/machine-learning-linear-algebra) of the Mathematics for Machine Learning Specialization by Coursera
 
 ### Contents
 
